@@ -1,4 +1,4 @@
-//Name: Linh Lam
+//Name: Duc Nguyen
 //Project 5 - MACHINE LEARNING
 //Professor Scott Thede
 //April 15th, 2018
